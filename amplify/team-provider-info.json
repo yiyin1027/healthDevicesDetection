@@ -1,0 +1,19 @@
+{
+    "pf": {
+        "awscloudformation": {
+            "AuthRoleName": "project-frontend-20190426124532-authRole",
+            "UnauthRoleArn": "arn:aws:iam::073259727542:role/project-frontend-20190426124532-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::073259727542:role/project-frontend-20190426124532-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "project-frontend-20190426124532-deployment",
+            "UnauthRoleName": "project-frontend-20190426124532-unauthRole",
+            "StackName": "project-frontend-20190426124532",
+            "StackId": "arn:aws:cloudformation:us-east-1:073259727542:stack/project-frontend-20190426124532/b51b0d50-6842-11e9-91c2-12dffdf25cac"
+        },
+        "categories": {
+            "auth": {
+                "cognitocd290420": {}
+            }
+        }
+    }
+}
