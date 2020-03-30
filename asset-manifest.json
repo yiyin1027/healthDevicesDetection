@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/healthDevicesDetection/static/css/main.ef39c764.chunk.css",
+    "main.js": "/healthDevicesDetection/static/js/main.f5448350.chunk.js",
+    "main.js.map": "/healthDevicesDetection/static/js/main.f5448350.chunk.js.map",
+    "runtime-main.js": "/healthDevicesDetection/static/js/runtime-main.743c9c30.js",
+    "runtime-main.js.map": "/healthDevicesDetection/static/js/runtime-main.743c9c30.js.map",
+    "xlsx.js": "/healthDevicesDetection/static/js/xlsx.6c8c99ca.chunk.js",
+    "xlsx.js.map": "/healthDevicesDetection/static/js/xlsx.6c8c99ca.chunk.js.map",
+    "static/css/3.f7d54674.chunk.css": "/healthDevicesDetection/static/css/3.f7d54674.chunk.css",
+    "static/js/3.5ba43843.chunk.js": "/healthDevicesDetection/static/js/3.5ba43843.chunk.js",
+    "static/js/3.5ba43843.chunk.js.map": "/healthDevicesDetection/static/js/3.5ba43843.chunk.js.map",
+    "static/js/4.3b508f4a.chunk.js": "/healthDevicesDetection/static/js/4.3b508f4a.chunk.js",
+    "static/js/4.3b508f4a.chunk.js.map": "/healthDevicesDetection/static/js/4.3b508f4a.chunk.js.map",
+    "static/js/5.1f002238.chunk.js": "/healthDevicesDetection/static/js/5.1f002238.chunk.js",
+    "static/js/5.1f002238.chunk.js.map": "/healthDevicesDetection/static/js/5.1f002238.chunk.js.map",
+    "static/js/6.68eaf271.chunk.js": "/healthDevicesDetection/static/js/6.68eaf271.chunk.js",
+    "static/js/6.68eaf271.chunk.js.map": "/healthDevicesDetection/static/js/6.68eaf271.chunk.js.map",
+    "index.html": "/healthDevicesDetection/index.html",
+    "precache-manifest.8460dc139168128099b954f31f641da8.js": "/healthDevicesDetection/precache-manifest.8460dc139168128099b954f31f641da8.js",
+    "service-worker.js": "/healthDevicesDetection/service-worker.js",
+    "static/css/3.f7d54674.chunk.css.map": "/healthDevicesDetection/static/css/3.f7d54674.chunk.css.map",
+    "static/css/main.ef39c764.chunk.css.map": "/healthDevicesDetection/static/css/main.ef39c764.chunk.css.map",
+    "static/js/3.5ba43843.chunk.js.LICENSE.txt": "/healthDevicesDetection/static/js/3.5ba43843.chunk.js.LICENSE.txt",
+    "static/js/6.68eaf271.chunk.js.LICENSE.txt": "/healthDevicesDetection/static/js/6.68eaf271.chunk.js.LICENSE.txt",
+    "static/media/Fallpicture.png": "/healthDevicesDetection/static/media/Fallpicture.310cd936.png",
+    "static/media/home1.png": "/healthDevicesDetection/static/media/home1.37e094e8.png",
+    "static/media/home12.jpg": "/healthDevicesDetection/static/media/home12.b976e016.jpg",
+    "static/media/Home.css": "/healthDevicesDetection/static/media/image1.0899ac6e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.743c9c30.js",
+    "static/css/3.f7d54674.chunk.css",
+    "static/js/3.5ba43843.chunk.js",
+    "static/css/main.ef39c764.chunk.css",
+    "static/js/main.f5448350.chunk.js"
+  ]
+}
