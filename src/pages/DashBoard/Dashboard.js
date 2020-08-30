@@ -2,7 +2,7 @@ import React from 'react';
 import {Link, Route, Switch} from "react-router-dom";
 import {Layout, Menu, Icon, Typography, List, Modal,} from 'antd';
 import Amplify from "aws-amplify";
-import awsmobile from "../../aws-exports";
+// import awsmobile from "../../aws-exports";
 import {withAuthenticator} from "aws-amplify-react";
 
 import ConsolePanel from '../../components/PanelComponent/ConsolePanel';
@@ -81,5 +81,5 @@ class DashBoard extends React.Component {
     }
 }
 
-Amplify.configure(awsmobile);
+// Amplify.configure(awsmobile);
 export default withAuthenticator(DashBoard, {includeGreetings: true});

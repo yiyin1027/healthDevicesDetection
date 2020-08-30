@@ -1,5 +1,5 @@
 import React from 'react';
-import awsmobile from '../aws-exports';
+// import awsmobile from '../aws-exports';
 import {Button, Col, Progress, Row, Statistic, Form, Input, Card, List} from "antd";
 import {Connect, withAuthenticator} from "aws-amplify-react";
 import Amplify, {API, graphqlOperation} from 'aws-amplify';
@@ -7,7 +7,7 @@ import Amplify, {API, graphqlOperation} from 'aws-amplify';
 import * as d3 from 'd3';
 import {Line, loadAllData, XAxis, YAxis, YGrid} from "./LineChartComponent";
 
-Amplify.configure(awsmobile);
+// Amplify.configure(awsmobile);
 const ListTests = `query ListTests{listTests(limit:5){items{deviceID timestamp BreathRate HeartRate falldetected}}}`;
 const GetTest = `query GetTest($deviceID: String! $timestamp: String!){
   getTest(deviceID:$deviceID,timestamp:$timestamp){

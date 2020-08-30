@@ -94,13 +94,13 @@ class Home extends React.Component {
     render() {
         return (
             <div className="home-component">
-                <Row type="flex" justify="center" align="middle" className="home-banner">
+                <Row type="flex" justify="center" align="middle" className="home-banner" >
                     <Col xs={20} sm={20} md={12} lg={18}>
                         <div className="banner-title">Welcome to HSS</div>
                         <div className="banner-title">Enabling Contact-Less Monitoring</div>
                     </Col>
                 </Row>
-
+                <br /><br /><br /><br /><br />
                 <div className="home-content">
                     <h1 style={{color: '#204871'}} align="center">Contact-less Monitoring System for
                         Seniors</h1>
