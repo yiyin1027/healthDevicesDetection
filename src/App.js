@@ -27,15 +27,15 @@ class App extends React.Component {
                     </Header>
                     <Content>
                         <Switch>
-                            <Route exact path="/healthDevicesDetection/" component={Home}/> 
-                            <Route path="/healthDevicesDetection/users" component={User}/>
-                            <Route path="/healthDevicesDetection/data" component={Data}/>
-                            <Route path="/healthDevicesDetection/faq" component={Faq}/>
-                            <Route path="/healthDevicesDetection/breathing" component={Breathing}/>
-                            <Route path="/healthDevicesDetection/Falls" component={Falls}/>
-                            <Route path="/healthDevicesDetection/pubnub" component={PubNub}/>
-                            <Route path="/healthDevicesDetection/dashboard" component={Dashboard}/>
-                            <Route path="/healthDevicesDetection/demo" component={Data}/>
+                            <Route exact path="/" component={Home}/> 
+                            <Route path="/users" component={User}/>
+                            <Route path="/data" component={Data}/>
+                            <Route path="/faq" component={Faq}/>
+                            <Route path="/breathing" component={Breathing}/>
+                            <Route path="/Falls" component={Falls}/>
+                            <Route path="/pubnub" component={PubNub}/>
+                            <Route path="/dashboard" component={Dashboard}/>
+                            <Route path="/demo" component={Data}/>
                             <Route component={Notfound}/>
                         </Switch>
                     </Content>
